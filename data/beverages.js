@@ -17,7 +17,8 @@ const beverages = [
         name:'Coca-Cola',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/coca_cola"
       }
-      ]
+      ],
+      price:4
   },
   {
     id: 2,
@@ -37,7 +38,8 @@ const beverages = [
         name:'Coca-Cola',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/coca_cola"
       }
-      ]
+      ],
+      price:4
   },
   {
     id: 3,
@@ -57,7 +59,8 @@ const beverages = [
         name:'Coca-Cola',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/coca_cola"
       }
-      ]
+      ],
+      price:6
   },
   {
     id: 4,
@@ -77,7 +80,8 @@ const beverages = [
         name:'Coca-Cola',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/coca_cola"
       }
-      ]
+      ],
+      price:4
   },
   {
     id: 5,
@@ -102,7 +106,8 @@ const beverages = [
         name:'Ice',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-ice"
       },
-      ]
+      ],
+      price:7
   },
   {
     id: 6,
@@ -127,7 +132,8 @@ const beverages = [
         name:'Ice',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/t-mcdonalds-ice"
       },
-      ]
+      ],
+      price:10
   },
   {
     id: 7,
@@ -157,7 +163,8 @@ const beverages = [
         name:'Lowfat Smoothie Yogurt',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/lowfat_smoothie_yogurt"
       },
-      ]
+      ],
+      price:12
   },
   {
     id: 7,
@@ -187,7 +194,8 @@ const beverages = [
         name:'Lowfat Smoothie Yogurt',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/lowfat_smoothie_yogurt"
       },
-      ]
+      ],
+      price:12
   },
   {
     id: 8,
@@ -217,7 +225,8 @@ const beverages = [
         name:'Medium Invert Sugar',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/default_logo"
       },
-      ]
+      ],
+      price:5
   },
   {
     id: 9,
@@ -277,7 +286,8 @@ const beverages = [
         name:'Medium Invert Sugar',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/default_logo"
       },
-      ]
+      ],
+      price:5
   },
   {
     id: 11,
@@ -303,7 +313,8 @@ const beverages = [
         name:'Medium Invert Sugar',
         img:"https://s7d1.scene7.com/is/image/mcdonalds/default_logo"
       },
-      ]
+      ],
+      price:6
   },
   {
     id: 12,
@@ -325,7 +336,8 @@ const beverages = [
         img:"https://s7d1.scene7.com/is/image/mcdonalds/default_logo"
       }
       
-      ]
+      ],
+      price:8
   },
   {
     id: 13,
@@ -347,7 +359,8 @@ const beverages = [
         img:"https://s7d1.scene7.com/is/image/mcdonalds/1_low_fat_milk"
       }
       
-      ]
+      ],
+      price:9
   },
   {
     id: 14,
@@ -369,7 +382,8 @@ const beverages = [
         img:"https://s7d1.scene7.com/is/image/mcdonalds/default_logo"
       }
       
-      ]
+      ],
+      price:12
   },
   {
     id: 15,
@@ -406,7 +420,8 @@ const beverages = [
         img:"https://s7d1.scene7.com/is/image/mcdonalds/chocolate_drizzle"
       },
       
-      ]
+      ],
+      price:15
   },
 ]
 
